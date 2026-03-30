@@ -485,7 +485,7 @@ export default function TrustCall() {
             </span>
           </div>
           <h1 className="header__title">
-            Intent<span>IQ</span>
+            Trust<span>Call</span>
           </h1>
           <p className="header__sub">AI-powered scam detection · Whisper  </p>
         </header>
